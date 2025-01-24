@@ -1,0 +1,68 @@
+h1{
+    background-color: rgb(146, 143, 179);
+    color: rgb(72, 39, 219);
+    border: 2px solid red;
+    border-radius: 10px;
+    text-align: center;
+}
+
+h4{
+    color: #1f22b3;
+}
+
+.red{
+    color: red;
+}
+
+.yellow{
+    color: yellow;
+}
+
+.green{
+    color: green;
+}
+
+.blue{
+    color: #7d7ea0;
+}
+
+table{
+    border: 3px solid rgb(255, 255, 255);
+    width: 1200px;
+    border-collapse: collapse;
+    text-align: center;
+    border-radius: 10px;
+}
+
+th, td{
+    border: 3px solid rgb(255, 255, 255);
+}
+
+caption{
+    background-color: yellow;
+    font-size: 22px;
+}
+
+th{
+    background-color: red;
+}
+
+.green2{
+    background-color: green;
+}
+
+.purple2{
+    background-color: blueviolet;
+}
+
+button{
+    background-color: rgb(127, 209, 3);
+    border: none;
+    width: 300px;
+    height: 40px;
+}
+
+img{
+    width: 780px;
+    height: 500px;
+}
